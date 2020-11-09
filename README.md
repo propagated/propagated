@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a strategic architect with an engineering past life. I am currently really into:
+
+* Domain Driven Design
+* JAMStack
+* openAPI
+
+Get in touch at [petewilliams.space!](https://petewilliams.space)
+
 <!--
 **propagated/propagated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
