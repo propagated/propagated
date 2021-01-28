@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a strategic architect with an engineering past life. I am currently really into:
+I'm a technical strategic architect with an engineering past life. If you're a non-technical founder, let's talk!
+
+I am currently really into:
 
 * Domain Driven Design
 * JAMStack
